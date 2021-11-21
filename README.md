@@ -1,5 +1,8 @@
 # docker-php-class-diagram
 
+A CLI tool that parses the PHP source directory and outputs PlantUML class diagram scripts.
+
+ihttps://github.com/smeghead/php-class-diagram
 
 ## Build
 
