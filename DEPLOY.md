@@ -3,7 +3,7 @@
 ## Build
 
 ```bash
-docker build . -t php-class-diagram
+docker build . -t php-class-diagram --no-cache
 ```
 
 ## Tagging
