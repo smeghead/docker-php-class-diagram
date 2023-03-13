@@ -17,7 +17,7 @@ $ docker run --rm \
         -v $(pwd):/usr/src \
         -w /usr/src \
         smeghead7/php-class-diagram bash \
-        -c 'php-class-diagram php-source-directory | plantuml -pipe -tpng > class-diagram.png'
+        -c 'php-class-diagram php-source-directory | plantuml -charset utf-8 -pipe -tpng > class-diagram.png'
 ```
 
 ## Open Shell
