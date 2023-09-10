@@ -7,4 +7,6 @@ RUN echo '#!/bin/sh' > /usr/bin/plantuml && echo 'java -jar /opt/plantuml.jar "$
 
 ENV PATH $PATH:/root/.config/composer/vendor/bin:/root/.composer/vendor/bin
 
+WORKDIR /usr/src
+
 ENTRYPOINT []
