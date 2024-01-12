@@ -2,7 +2,13 @@
 
 A CLI tool that parses the PHP source directory and outputs PlantUML class diagram scripts.
 
-ihttps://github.com/smeghead/php-class-diagram
+## Github
+
+https://github.com/smeghead/php-class-diagram
+
+## dockerhub
+
+https://hub.docker.com/r/smeghead7/php-class-diagram
 
 ## Build
 
