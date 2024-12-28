@@ -1,6 +1,9 @@
+![Project Logo](https://repository-images.githubusercontent.com/423499730/0321af95-b8bf-478a-943a-f68ac02e475f)
+
 # docker-php-class-diagram
 
 A CLI tool that parses the PHP source directory and outputs PlantUML class diagram scripts.
+
 
 ## Github
 
