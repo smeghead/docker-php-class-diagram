@@ -6,6 +6,12 @@
 docker build . -t php-class-diagram --no-cache
 ```
 
+## Confirm
+
+```bash
+docker run --rm php-class-diagram php-class-diagram -v
+```
+
 ## Tagging
 
 ```bash
